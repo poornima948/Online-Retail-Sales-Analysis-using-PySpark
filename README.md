@@ -7,7 +7,7 @@ It demonstrates data cleaning, transformation, feature engineering, and key busi
 ---
 
  Dataset
-- Original Dataset: [UCI Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online retail)
+- Original Dataset: [UCI Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail)
 - Contains: ~500,000 transactions from a UK-based online store (December 2010 – December 2011)
 - Due to GitHub's 25 MB upload limit, this project uses a **10,000-row sample** saved as `online_retail_sample.csv`  
    The sample was created using the first 10,000 valid rows from the original Excel file.
@@ -17,6 +17,8 @@ It demonstrates data cleaning, transformation, feature engineering, and key busi
  Tools & Technologies
 
 -  **PySpark** (DataFrame API)
+-  **Seaborn** (for visualization)
+-  **Matplotlib** (for visualization)
 -  **Google Colab**
 -  **pandas** (for initial Excel handling)
 - `groupBy`, `agg`, `filter`, `when`, `withColumn`, and other PySpark transformations
@@ -58,10 +60,10 @@ Key Analysis Performed
 
  Sample Business Insights
 
-- UK contributes over 80%** of total revenue
+- UK contributes over **80%** of total revenue
 - Most revenue occurs during mid-day (10 AM – 3 PM)
-- Top-selling products include **T-shirts** and **decor items
-- Most returns are associated with **low-cost, bulk-ordered items
+- Top-selling products include **T-shirts** and **decor items**
+- Most returns are associated with **low-cost**, bulk-ordered items
 - Top 10% customers generate ~60% of total revenue
 
 ---
