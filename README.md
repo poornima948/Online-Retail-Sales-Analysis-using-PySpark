@@ -1,4 +1,4 @@
-# online-retail-pyspark-analysis
+# online-retail- sales-pyspark-analysis
  Online Retail Sales Analysis Using PySpark
 
 This project performs an end-to-end analysis of the **UCI Online Retail dataset** using **PySpark** in **Google Colab**.  
@@ -8,6 +8,7 @@ It demonstrates data cleaning, transformation, feature engineering, and key busi
 
  Dataset
 - Original Dataset: [UCI Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail)
+- [Download dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx)
 - Contains: ~500,000 transactions from a UK-based online store (December 2010 – December 2011)
 - Due to GitHub's 25 MB upload limit, this project uses a **10,000-row sample** saved as `online_retail_sample.csv`  
    The sample was created using the first 10,000 valid rows from the original Excel file.
