@@ -67,7 +67,12 @@ Key Analysis Performed
 - Most returns are associated with **low-cost**, bulk-ordered items
 - Top 10% customers generate ~60% of total revenue
 - ### 📈 Monthly Revenue Trend
-![Monthly Revenue](<img width="1377" height="664" alt="image" src="https://github.com/user-attachments/assets/47fe4d49-7818-4c04-b208-99f08ee9dc47" />
+![Monthly Revenue]<img width="1377" height="664" alt="image" src="https://github.com/user-attachments/assets/47fe4d49-7818-4c04-b208-99f08ee9dc47" />
+[top 10 country revenue]<img width="1372" height="671" alt="image" src="https://github.com/user-attachments/assets/351ee73b-d56d-4785-959c-2cbd1cb16bad" />
+total quantity sold for top products<img width="1387" height="689" alt="image" src="https://github.com/user-attachments/assets/78e9a7f6-65d4-412d-a644-290a33464cd8" />
+monthly average order value<img width="1388" height="686" alt="image" src="https://github.com/user-attachments/assets/2258be3e-ef12-4d91-9e00-16e53b38d7a3" />
+
+
 
 
 
