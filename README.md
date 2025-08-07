@@ -66,6 +66,10 @@ Key Analysis Performed
 - Top-selling products include **T-shirts** and **decor items**
 - Most returns are associated with **low-cost**, bulk-ordered items
 - Top 10% customers generate ~60% of total revenue
+- ### 📈 Monthly Revenue Trend
+![Monthly Revenue](<img width="1377" height="664" alt="image" src="https://github.com/user-attachments/assets/47fe4d49-7818-4c04-b208-99f08ee9dc47" />
+
+
 
 ---
 
