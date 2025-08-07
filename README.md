@@ -68,10 +68,42 @@ Key Analysis Performed
 - Top 10% customers generate ~60% of total revenue
 
 Monthly Revenue<img width="1377" height="664" alt="image" src="https://github.com/user-attachments/assets/47fe4d49-7818-4c04-b208-99f08ee9dc47" />
+
 top 10 country revenue<img width="1372" height="671" alt="image" src="https://github.com/user-attachments/assets/351ee73b-d56d-4785-959c-2cbd1cb16bad" />
+
 total quantity sold for top products<img width="1387" height="689" alt="image" src="https://github.com/user-attachments/assets/78e9a7f6-65d4-412d-a644-290a33464cd8" />
+
 monthly average order value<img width="1388" height="686" alt="image" src="https://github.com/user-attachments/assets/2258be3e-ef12-4d91-9e00-16e53b38d7a3" />
 
+top returned products<img width="1388" height="690" alt="image" src="https://github.com/user-attachments/assets/277bc727-e081-448f-8e82-a19cb7c2be09" />
+
+---
+
+## Analysis Summary and Recommendation System Presentation
+
+Based on our analysis of the online retail data, we found the following:
+
+**Customer Purchasing Behavior:**
+- We calculated RFM metrics (Recency, Frequency, Monetary Value) for each customer, providing insights into their engagement and spending.
+
+**Data Visualizations:**
+- The time series plot of monthly total revenue showed peak revenue during the holiday season (October, November, and December).
+- The bar chart of top countries by revenue indicated that the United Kingdom is the largest market.
+- The bar chart of top products by quantity sold highlighted the most popular items.
+- The time series plot of monthly average order value showed fluctuations throughout the year.
+
+**Analysis of Returns:**
+- We identified the top frequently returned products.
+
+
+
+**Next Steps:**
+
+- Conduct deeper dives into customer segmentation based on RFM scores.
+- Analyze the reasons for returns if more detailed data is available.
+- Explore forecasting future sales or demand for products.
+
+This concludes our analysis .
 
 
 
