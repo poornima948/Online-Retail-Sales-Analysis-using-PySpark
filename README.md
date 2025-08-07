@@ -79,7 +79,7 @@ top returned products<img width="1388" height="690" alt="image" src="https://git
 
 ---
 
-## Analysis Summary and Recommendation System Presentation
+## Analysis Summary 
 
 Based on our analysis of the online retail data, we found the following:
 
