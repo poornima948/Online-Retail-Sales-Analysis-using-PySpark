@@ -53,8 +53,8 @@ Key Analysis Performed
       3. WHITE HANGING HEART T-LIGHT HOLDER               
       4. JUMBO BAG RED RETROSPOT                          
       5. MEDIUM CERAMIC TOP STORAGE JAR   
-  - Top 5 Countries by Revenue :
-<img width="647" height="300" alt="image" src="https://github.com/user-attachments/assets/dbdcff1f-02f4-4b47-a540-de704830d6f7" />
+  - Top Countries by Revenue :
+    <img width="647" height="300" alt="image" src="https://github.com/user-attachments/assets/dbdcff1f-02f4-4b47-a540-de704830d6f7" />
 
   - Average Order Value
   - Revenue by Time of Day: Most orders were placed between 10 AM and 3 PM.
