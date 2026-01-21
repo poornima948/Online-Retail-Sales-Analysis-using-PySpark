@@ -61,11 +61,11 @@ Key Analysis Performed
 
  Sample Business Insights
 
-- UK contributes over **80%** of total revenue
+- UK contributes over **80%** of total revenue. UK is by far the largest market,followed by the Netherlands and Germany. Also UK has most number of customers.
 - Most revenue occurs during mid-day (10 AM – 3 PM)
 - Top-selling products include **T-shirts** and **decor items**
 - Most returns are associated with **low-cost**, bulk-ordered items
-- Top 10% customers generate ~60% of total revenue
+- Top 26% customers generate ~80% of total revenue
 
 Monthly Revenue<img width="1377" height="664" alt="image" src="https://github.com/user-attachments/assets/47fe4d49-7818-4c04-b208-99f08ee9dc47" />
 
@@ -94,14 +94,13 @@ Based on our analysis of the online retail data, we found the following:
 
 **Analysis of Returns:**
 - We identified the top frequently returned products.
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/bc663ebb-09e6-4ddc-b1cd-942085a9a981" />
 
 
+**Segmentation based on RFM scores:**
+<img width="669" height="212" alt="image" src="https://github.com/user-attachments/assets/4efc121d-c3e2-424b-8629-8d9ee5dc016c" />
 
-**Next Steps:**
 
-- Conduct deeper dives into customer segmentation based on RFM scores.
-- Analyze the reasons for returns if more detailed data is available.
-- Explore forecasting future sales or demand for products.
 
 This concludes our analysis .
 
