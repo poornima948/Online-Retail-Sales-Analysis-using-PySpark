@@ -47,7 +47,7 @@ Key Analysis Performed
   KPI Metrics:
   - Monthly Revenue Trend: total revenue generally increased towards the end of 2011, with the highest revenues in October and November, which aligns with holiday shopping trends.
   - Top Products by Quantity:
-  - 
+    
       1.PAPER CRAFT , LITTLE BIRDIE                       
       2. REGENCY CAKESTAND 3 TIER                           
       3. WHITE HANGING HEART T-LIGHT HOLDER               
@@ -108,6 +108,7 @@ Based on our analysis of the online retail data, we found the following:
 
 
 **Segmentation based on RFM scores:**
+
 <img width="669" height="212" alt="image" src="https://github.com/user-attachments/assets/4efc121d-c3e2-424b-8629-8d9ee5dc016c" />
 
 
