@@ -45,17 +45,29 @@ Key Analysis Performed
   - Extracted `Year`, `Month`, `Hour` from `InvoiceDate`
 
   KPI Metrics:
-  - Monthly Revenue Trend
-  - Top Products by Quantity
-  - Top 5 Countries by Revenue
+  - Monthly Revenue Trend: total revenue generally increased towards the end of 2011, with the highest revenues in October and November, which aligns with holiday shopping trends.
+  - Top Products by Quantity:
+      1.PAPER CRAFT , LITTLE BIRDIE                       
+      2. REGENCY CAKESTAND 3 TIER                           
+      3. WHITE HANGING HEART T-LIGHT HOLDER               
+      4. JUMBO BAG RED RETROSPOT                          
+      5. MEDIUM CERAMIC TOP STORAGE JAR   
+  - Top 5 Countries by Revenue :
+      1. United Kingdom                 $7,285,024.64 | Customers: 3,920.0
+      2. Netherlands                    $  285,446.34 | Customers:   9.0
+      3. EIRE                           $  265,262.46 | Customers:   3.0
+      4. Germany                        $  228,678.40 | Customers:  94.0
+      5. France
   - Average Order Value
-  - Revenue by Time of Day
+  - Revenue by Time of Day: Most orders were placed between 10 AM and 3 PM.
   - Top 20% Customers by Revenue Share
 
   Advanced Analysis:
   - Returned Product Detection
   - Country-wise Product Popularity
   - Small Order Frequency by Customer
+  - Customer Contribution & Pareto Analysis
+  - RFM Analysis & Customer Segmentation
 
 ---
 
