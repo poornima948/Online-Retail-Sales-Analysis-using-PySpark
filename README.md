@@ -54,7 +54,7 @@ Key Analysis Performed
       4. JUMBO BAG RED RETROSPOT                          
       5. MEDIUM CERAMIC TOP STORAGE JAR   
   - Top 5 Countries by Revenue :
-<img width="719" height="136" alt="image" src="https://github.com/user-attachments/assets/40fcd6ae-263e-48a4-9e33-12a1952b056e" />
+<img width="647" height="300" alt="image" src="https://github.com/user-attachments/assets/dbdcff1f-02f4-4b47-a540-de704830d6f7" />
 
   - Average Order Value
   - Revenue by Time of Day: Most orders were placed between 10 AM and 3 PM.
